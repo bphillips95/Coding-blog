@@ -1,7 +1,7 @@
 ---
 title: Mutating JS strings
 date: "2020-02-10T22:12:03.284Z"
-description: "Mutating JS strings"
+description: "Hey all, So a lot of people coming into JavaScript, struggle with identifying with certain ideas that can look contradictory."
 ---
 
 Hey all, So a lot of people coming into JavaScript, struggle with identifying with certain ideas that can look contradictory. In reality, anytime you see what appears to not make sense, best practice is to sit down and work on understanding the root issue, the why, and the how.
@@ -132,15 +132,9 @@ Break
 2. Of course, Brady is coming back, absolutely ridiculous to think there is any chance he’s going anywhere else, the best chance of ring no.7 is Foxborough. (Of course, if he does leave, I never said this. )   
 EDIT: I never said this
 
-<!-- Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color. -->
+Here are some links to sites mentioned earlier
+> [Just JavaScript](https://justjavascript.com/).
 
-<!-- ![Chinese Salty Egg](./salty_egg.jpg) -->
+> [Awwapp](https://awwapp.com/).
+

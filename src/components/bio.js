@@ -7,7 +7,7 @@
 
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-// import Image from "gatsby-image"
+import Image from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
 
@@ -28,7 +28,7 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
+            linkedin
           }
         }
       }
@@ -43,7 +43,7 @@ const Bio = () => {
         marginBottom: rhythm(2.5),
       }}
     >
-      {/* <Image
+      <Image
         fixed={data.avatar.childImageSharp.fixed}
         alt={author.name}
         style={{
@@ -55,10 +55,13 @@ const Bio = () => {
         imgStyle={{
           borderRadius: `50%`,
         }}
-      /> */}
+      />
       <p>
         Written by <strong>{author.name}</strong> {author.summary}
         {` `}
+        <a href={`https://linkedin.com/in/${social.linkedin}`}>
+          You should check him out on Linkedin
+        </a>
       </p>
     </div>
   )
