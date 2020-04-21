@@ -44,6 +44,9 @@ So to remember
 
 *** Only Objects can be mutated**
 
+---
+
+
 Now that primitive values cannot be changed in any sort of way, let’s try something else.
 
 ```js
@@ -61,7 +64,7 @@ tom // "Thomas Edison"
 ????!!!
 ```
 
-Whatt??? I thought strings couldn’t be changed!! You’re right. They can’t be changed. In this case, we aren’t changing the string, we are merely re-assigning the variable. A variable is not any form of data-type of its own, it is just a pointer to show us a piece of data that we have created. Over here we haven’t destroyed “Tom Brady”.¹ The Patriots still need him.² We are however taking the variable of “tom” and assigning it to the string of “Thomas Edison”. By doing so, however, we no longer have a way to access “Tom Brady”, and in essence, that string is lost to us.
+Whatt??? I thought strings couldn’t be changed!! You’re right. They can’t be changed. In this case, we aren’t changing the string, we are merely re-assigning the variable. A variable is not any form of data-type of its own, it is just a pointer to show us a piece of data that we have created. Over here we haven’t destroyed “Tom Brady”.[¹] The Patriots still need him.[²] We are however taking the variable of “tom” and assigning it to the string of “Thomas Edison”. By doing so, however, we no longer have a way to access “Tom Brady”, and in essence, that string is lost to us.
 
 Think of it this way.
 
@@ -81,7 +84,8 @@ Now “tom” is assigned to the string of “Thomas Edison”.
 
 As you can see, nothing happened to “Tom Brady”. He didn’t become mutated in any way, rather the variable points to a different value.
 
-<!-- Break -->
+---
+<br>
 
 This helps explain how variables work if one is assigned to another.
 ```js
@@ -111,7 +115,9 @@ However JavaScript is pass-by-value, and a just takes on the value of whatever b
 
 ![Using awwap to show this visually](./seventh_pic.png)
 
-Break
+<br>
+
+---
 
 To anyone who reads this blog, I hope some of this helps you in your journey to understanding the how and why of JavaScript. A lot of the ideas written here, I got and understood much better than before from Dan Abramov’s Just JavaScript newsletter, which I can’t recommend enough. I posted a link to subscribe to the bottom of this page.
 
@@ -126,12 +132,13 @@ return x
 string // ???
 ```
 
-Break
 
-1. JS does have garbage collection, and therefore is something is uselessly taking up space in memory, it will be deleted.
-2. Of course, Brady is coming back, absolutely ridiculous to think there is any chance he’s going anywhere else, the best chance of ring no.7 is Foxborough. (Of course, if he does leave, I never said this. )   
+[^1]. JS does have garbage collection and therefore if something is uselessly taking up space in memory, it will be deleted.
+[^2]. Of course, Brady is coming back, absolutely ridiculous to think there is any chance he’s going anywhere else, the best chance of ring no.7 is Foxborough. (Of course, if he does leave, I never said this. )   
 EDIT: I never said this
 
+---
+<br>
 
 Here are some links to sites mentioned earlier
 > [Just JavaScript](https://justjavascript.com/).
