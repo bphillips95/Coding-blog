@@ -21,6 +21,9 @@ Ada was not widely known for her own achievements during her lifetime, in fact a
 
 Today, millions of people write software programs, and Ada Lovelace is credited by most to have written the very first one. Ada Lovelace Day is marked the second Tuesday of October, and the impact she had on the future of programming is immeasurable.
 
+![The Difference Engine invented by Charles Babbage was the precursor to his more widely known Analytical Engine.](./adapic1.jpeg) 
+###### The Difference Engine invented by Charles Babbage was the precursor to his more widely known Analytical Engine.
+
 ---
 
 ### John Backus: Creating first widely used programming language
@@ -28,6 +31,9 @@ Today, millions of people write software programs, and Ada Lovelace is credited 
 > Much of my work has come from being lazy. I didn’t like writing programs, and so, when I was working on the IBM 701, writing programs for computing missile trajectories, I started work on a programming system to make it easier to write programs.”
 
 Born in Philadelphia in 1924, John Backus joined IBM in 1950, shortly after earning his Master’s from Columbia University. In 1950 programming consisted of a sequence of numbers which in turn ran a very basic function, for example ‘add the number in register A to the number in register B’. This made code very time-consuming and error-prone.
+
+![We’ve come a long way. (AP Photos)](./backuspic.jpeg)
+###### We’ve come a long way. (AP Photos)
 
 > At the time, programming was exceedingly difficult-Backus once described it as “doing hand-to-hand combat with the machine⁴.”
 
