@@ -16,7 +16,7 @@ The first step is to install the Spotify desktop app. https://www.spotify.com/us
 
 Next step input this into your terminal.
 
-```
+```rb
 brew install shpotify
 ```
 
@@ -43,14 +43,14 @@ Moving on. You should see something that says Client ID with a long number in fr
 
 It should look similar to this
 
-```
+```rb
 CLIENT_ID="abc01de2fghijk345lmnop"
 CLIENT_SECRET="qr6stu789vwxyz"
 ```
 
 copy that and go on and paste it here in your shpotify file
 
-```
+```rb
 ${HOME}/.shpotify.cfg
 ```
 
@@ -92,7 +92,7 @@ spotify toggle repeat              Toggles repeat playback mode.
 Yeah, Awesome.
 
 I stumbled on this while trying to add music to my CLI project during the very beginning of my time at Flatiron School. While I was very frustrated at the time trying to incorporate Spotify into my project, It is a cool, and useful feature. (EDIT: After writing this blog, I found out that you can import CLI commands into your code, by just writing the prefix of system inside your code. Like this for example.
-```
+```rb
 system "spotify play"
 ```
 
