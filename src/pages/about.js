@@ -1,14 +1,27 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 
 export default ({ data }) => (
+
   <div>
     <h1>About the Author</h1>
+    
    <p>Welcome to my Gatsby site.</p>
 
-    <p>My name is Baruch Phillips and I am a software developer in NYC.</p>
+    <p>My name is Baruch Phillips and I am a software developer in NYC.
+      <br/>
+    I have experience using Ruby on Rails, Javascript and React/Redux, for any inquiries please reach out to me on   <a href={`https://linkedin.com/in/${data.site.siteMetadata.social.linkedin}`}>Linkedin</a></p>
+
     <Img fixed={data.file.childImageSharp.fixed} />
+  
+    <br/>
+    <a href={`https://medium.com/@baruchphillips`}>Check out my Blog on Medium</a>
+    <br/>
+    <a href={`https://github.com/bphillips95`}>Check out my GitHub</a> 
+    <br/>
+    <br/>
+    <Link to="/">Home</Link>
   </div>
 )
 export const query = graphql`
@@ -19,6 +32,17 @@ export const query = graphql`
         # Makes it trivial to update as your page's design changes.
         fixed(width: 175, height: 175) {
           ...GatsbyImageSharpFixed
+        }
+      }
+    }
+    site {
+      siteMetadata {
+        author {
+          name
+          summary
+        }
+        social {
+          linkedin
         }
       }
     }
