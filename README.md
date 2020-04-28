@@ -1,3 +1,7 @@
+Blog can be found at https://master.d2xkbwsf1jjyfy.amplifyapp.com/
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
