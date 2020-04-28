@@ -1,4 +1,4 @@
-Blog can be found at https://master.d2xkbwsf1jjyfy.amplifyapp.com/
+Blog can be found at https://www.bpthoughts.com/
 
 
 
