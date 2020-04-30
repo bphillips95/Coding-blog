@@ -4,7 +4,9 @@ import Img from "gatsby-image"
 
 export default ({ data }) => (
 
-  <div>
+  <div style={{
+    margin: "10px 50px 20px"
+  }}>
     <h1>About the Author</h1>
     
    <p>Welcome to my Gatsby site.</p>
@@ -13,7 +15,7 @@ export default ({ data }) => (
       <br/>
     I have experience using Ruby on Rails, Javascript and React/Redux, for any inquiries please reach out to me on   <a href={`https://linkedin.com/in/${data.site.siteMetadata.social.linkedin}`}>Linkedin</a></p>
 
-    <Img fixed={data.file.childImageSharp.fixed} />
+    <Img fixed={data.file.childImageSharp.fixed} className="center" />
   
     <br/>
     <a href={`https://medium.com/@baruchphillips`}>Check out my Blog on Medium</a>
