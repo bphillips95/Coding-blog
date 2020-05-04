@@ -119,7 +119,7 @@ However JavaScript is pass-by-value, and a just takes on the value of whatever b
 
 ---
 
-To anyone who reads this blog, I hope some of this helps you in your journey to understanding the how and why of JavaScript. A lot of the ideas written here, I got and understood much better than before from Dan Abramov’s Just JavaScript newsletter, which I can’t recommend enough. I posted a link to subscribe to the bottom of this page.
+To anyone who reads this blog, I hope some of this helps you in your journey to understanding the how and why of JavaScript. A lot of the ideas written here, I understood much better than earlier from reading Dan Abramov’s Just JavaScript newsletter, which I can’t recommend enough. I posted a link to subscribe to the bottom of this page.
 
 P.S. Just as a reminder, what do you think this function does to the string? Remember strings are primitive.
 
