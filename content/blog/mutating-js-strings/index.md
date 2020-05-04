@@ -134,6 +134,7 @@ string // ???
 
 
 [^1]. JS does have garbage collection and therefore if something is uselessly taking up space in memory, it will be deleted.
+
 [^2]. Of course, Brady is coming back, absolutely ridiculous to think there is any chance he’s going anywhere else, the best chance of ring no.7 is Foxborough. (Of course, if he does leave, I never said this. )   
 EDIT: I never said this
 
