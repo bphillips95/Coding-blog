@@ -7,7 +7,7 @@ export default ({ data }) => (
   <div 
   style={{
     margin: "10px 360px 20px"
-  }}
+  }}  
   >
     <h1>About the Author</h1>
     
