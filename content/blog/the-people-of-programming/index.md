@@ -1,7 +1,7 @@
 ---
 title: The People of Programming
 date: "2020-01-21T22:40:32.169Z"
-description: This is a short profile of some of the innovators who first wrote programming languages for a computer
+description: This is a short profile of some of the innovators who first wrote programming languages for a computer.
 ---
 
 Hey all, to understand a subject, I always think it’s important to know the history behind said subject, and who helped form it. So much of the knowledge we have today is thanks to the generations before us, who worked to bring us to where we are today. So I decided to do some research into the history of programming languages and the people who first communicated with the engineering marvel we know today as a computer. I’ll try to keep these profiles brief and to the point as much as possible.

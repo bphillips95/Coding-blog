@@ -1,7 +1,7 @@
 ---
 title: Using Spotify in your terminal
 date: "2020-01-06T22:40:32.169Z"
-description: A How-To guide to using the Spotify app directly from your computer terminal
+description: A How-To guide to using the Spotify app directly from your computer terminal.
 ---
 
 Who has always dreamed of being able to play music straight from your terminal without having to move your cursor? To be able to explore that vast jungle of artists and genres, to block out all of that disrupting, outside noise with the sound of music, all while in middle of creating the next Facebook?
