@@ -6,7 +6,7 @@ export default ({ data }) => (
 
   <div 
   style={{
-    margin: "10px 360px 20px"
+    "text-align": "center"
   }}   
   >
     <h1>About the Author</h1>
@@ -15,7 +15,10 @@ export default ({ data }) => (
 
     <p>My name is Baruch Phillips and I am a software developer in NYC.
       <br/>
-    I have experience using Ruby on Rails, Javascript and React/Redux, for any inquiries please reach out to me on   <a href={`https://linkedin.com/in/${data.site.siteMetadata.social.linkedin}`}>Linkedin</a></p>
+    I have experience using Ruby on Rails, Javascript and React/Redux.
+    <br/>
+    <br/>
+     For any inquiries please reach out to me on   <a href={`https://linkedin.com/in/${data.site.siteMetadata.social.linkedin}`}>Linkedin</a></p>
 
     <Img fixed={data.file.childImageSharp.fixed} className="center" />
   
