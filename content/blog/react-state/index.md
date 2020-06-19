@@ -66,7 +66,7 @@ There are a number of differences that come up.
 `this.setState({counter: new value)`    
 Using hooks however, the updating method is specific to each instance, therefore you just need the value.
 `setCounter(new value)`
-5. You do not need the *this* anymore!!!!!!! You are able to call state directly with the variable you have set for it.
+5. You do not need **this** anymore!!!!!!! You are able to call state directly with the variable you have set for it.
 6. Unlike when creating state with classes, the useState hook accepts any value, such as an array,string,object or integer.
 
 These are just a few of what sticks out when transitioning to React Hooks, there are more of course and you should definitely read the React Docs.
