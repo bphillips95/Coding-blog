@@ -1,7 +1,7 @@
 ---
 title: Singly Linked List - How to write it
-date: "2020-06-23T22:12:03.284Z"
-description: "A simple guide to writing the basic methods to create a singly linked list"
+date: "2020-06-30T17:30:03.284Z"
+description: "A short guide to writing the basic methods to create a singly linked list"
 ---
  
 Hey all, so in the last blog I explained some of the why in using a linked list, in this blog I will go through the how. 
