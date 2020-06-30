@@ -17,7 +17,7 @@ class Node{
     }
 }
 ```
-Note: If you are unfamiliar with classes, you can read up more about them here https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes . If you are familiar with Object Oriented Programming(OOP) from another language such as Ruby, you should have no issues with a linked list. 
+Note: If you are unfamiliar with classes, you can read up more about them at [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) . If you are familiar with Object Oriented Programming(OOP) from another language such as Ruby, you should have no issues with a linked list. 
 
 
 As you can see, each node contains 2 values 
@@ -135,6 +135,6 @@ Next -> | Next -> | Next -> |
 Thats it for push and unshift, In the next blog I will go through pop and unshift, removing nodes from the beginnning and end of a list.
 
 
-####  Notes 
+####  ---------------------- Notes ----------------------
 1. I learned linked lists from a Udemy course which you can find [here](https://www.udemy.com/share/101X5sAEMacFZTRHoF/).
 2. [Visualgo](https://visualgo.net/en/list?slide=1) is a great resource to understand how linked lists and other data structures work, Check it out!
