@@ -4,11 +4,11 @@ date: "2020-06-30T17:30:03.284Z"
 description: "A short guide to writing the basic methods to create a singly linked list"
 ---
  
-Hey all, so in the last blog I explained some of the why in using a linked list, in this blog I will go through the how. 
+Hey all, so in the last blog, I explained some of the why in using a linked list, in this blog I will go through the how. 
 
-Each link in a linked list is composed of a node which contain its own value and a pointer to the next value. 
+Each link in a linked list is composed of a node that contains its own value and a pointer to the next value. 
 
-So first let's create our node syntax 
+So first let's create the syntax for our Node
 ```js
 class Node{
     constructor(val){
@@ -22,7 +22,7 @@ Note: If you are unfamiliar with classes, you can read up more about them at [Mo
 
 As you can see, each node contains 2 values 
 1. Its own value
-2. A next property which will point to the next node. 
+2. A next property that will point to the next node. 
 
 Now let's create our List
 
@@ -132,7 +132,7 @@ Head |  | Tail |  |
 value: Singly | value: Linked | value: List | value: Null
 Next -> | Next -> | Next -> | 
 
-Thats it for push and unshift, In the next blog I will go through pop and unshift, removing nodes from the beginnning and end of a list.
+Thats it for push and unshift, In the next blog I will go through pop and unshift, removing nodes from the beginning and end of a list.
 
 
 ####  ---------------------- Notes ----------------------
