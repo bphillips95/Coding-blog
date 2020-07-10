@@ -1,5 +1,5 @@
 ---
-title: Singly Linked List - How to write it
+title: Singly Linked List - Push and Unshift
 date: "2020-06-30T17:30:03.284Z"
 description: "A short guide to writing the basic methods to create a singly linked list"
 ---
