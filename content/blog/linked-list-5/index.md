@@ -43,7 +43,7 @@ Anyways here's the syntax, and then I'll walk through it.
 4. Create our new node with the value passed in.
 5. Insert our new node between those variables.
 6. Increase the length by 1
-7. Return true if successfull. 
+7. Return true if successful. 
 
 ---
 
