@@ -1,7 +1,7 @@
 ---
 title: Singly Linked List - Pop and Shift
 date: "2020-07-10T17:30:03.284Z"
-description: "Continuing with Linked Lists, How to remove a node from the beginning or end of a list."
+description: "The 3rd part of a series on Linked-Lists."
 ---
 
 Hey, So continuing with Linked Lists, in the last blog I discussed adding a node to the beginning of the end of a list, here I will go through how to remove a node from the beginning or end.

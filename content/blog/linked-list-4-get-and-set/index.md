@@ -1,7 +1,7 @@
 ---
 title: Singly Linked List - Get and Set
 date: "2020-07-19T17:30:03.284Z"
-description: "How to access and replace a node from inside a linked list."
+description: "The 4th part of a series on Linked-Lists."
 ---
 
 Hey, so continuing with a Singly-Linked-List, so far we have only dealt with adding or removing a node from either **end** of a list, in this blog I will walk through accessing(get) and replacing(set) a node from anywhere in the list. 
