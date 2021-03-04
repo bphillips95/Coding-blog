@@ -1,7 +1,7 @@
 ---
 title: Binary Search Trees
 date: "2021-03-01T22:12:03.284Z"
-description: "Binary Search Trees: What, Why, and How"
+description: "Binary Search Trees: What, Why, and How."
 ---
 
 Hey, so a lot of people like me finished a coding bootcamp and then needed to start practicing algorithms and learning data structures to get into that FAANG company. Well, chances are you have come across Binary Search Trees, which I'll call BST for short.
