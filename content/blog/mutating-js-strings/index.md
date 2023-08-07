@@ -80,7 +80,7 @@ We set the variable “tom” to show us the string of “Tom Brady”.
 
 Now “tom” is assigned to the string of “Thomas Edison”.
 
-![Using awwap to show this visually](./fourth.png)
+![Using awwap to show this visually](./fourth_pic.png)
 
 As you can see, nothing happened to “Tom Brady”. He didn’t become mutated in any way, rather the variable points to a different value.
 

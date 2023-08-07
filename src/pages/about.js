@@ -17,8 +17,8 @@ export default ({ data }) => (
       <br/>
     I have experience using Ruby on Rails, Javascript and React/Redux.
     <br/>
-    <br/>
-    <a href="https://learn.co/bphillips/resume">Check out my Resume</a> 
+    {/* <br/> */}
+    {/* <a href="https://learn.co/bphillips/resume">Check out my Resume</a>  */}
     <br/>
      For any inquiries or job opportunities please reach out to me on <a href={`https://linkedin.com/in/${data.site.siteMetadata.social.linkedin}`}>Linkedin</a>.</p>
 
